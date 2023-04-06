@@ -1,0 +1,118 @@
+{
+    "user":[
+
+    ],
+    "product":[
+        {
+            "id":1,
+            "name":"Bóng rổ Spalding Platinum size 7",
+            "price":1200000,
+            "discount":0,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680748153/Bong-ro/series-zi-o-skin-pu-materail-basketball-indoor-outdoor-official-size-7_eb708fb3765940ada0f0f211a719b6a9_master_pxcugv.jpg",
+            "category":"Bóng rổ",
+            "brand":"Spalding",
+            "buy":0
+        },
+        {
+            "id":2,
+            "name":"Bóng rổ Spalding Gold size 7",
+            "price":1000000,
+            "discount":10,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680748923/Bong-ro/sic-rough-surface-men-s-match-basketball-indoor-outdoor-general-size-7_43934fdb6e75466fb805a60986668c0f_master_dbldhc.webp",
+            "category":"Bóng rổ",
+            "brand":"Spalding",
+            "buy":10
+        },
+        {
+
+            "id":3,
+            "name":"Bóng rổ Spalding Silver size 7",
+            "price":800000,
+            "discount":20,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680748923/Bong-ro/sic-rough-surface-men-s-match-basketball-indoor-outdoor-general-size-7_43934fdb6e75466fb805a60986668c0f_master_dbldhc.webp",
+            "category":"Bóng rổ",
+            "brand":"Spalding",
+            "buy":1
+        },
+        {
+
+            "id":5,
+            "name":"Molten BG5000 Da thật Size 7",
+            "price":1500000,
+            "discount":0,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680749618/Bong-ro/sec02_ballimg_2bd814d6cef14c6c9c02fd8c96ee5c0b_master_srqjls.webp",
+            "category":"Bóng rổ",
+            "brand":"Molten",
+            "buy":0
+        },
+        {
+
+            "id":6,
+            "name":"Molten BG5800 Size 7",
+            "price":1500000,
+            "discount":0,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680749799/Bong-ro/ae15fd9e-9437-4e90-82e8-b7b1872e561f_e9d5b535ba0f4aa4ac10f0a4029c40be_master_taro1w.webp",
+            "category":"Bóng rổ",
+            "brand":"Molten",
+            "buy":0
+        }, 
+        {
+
+            "id":7,
+            "name":"Nike KD 14 Ky-D",
+            "price":4500000,
+            "discount":0,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680749957/Bong-ro/nike-kd-14-ky-d-cw3935-002-release-date-4_2f0544c336284a27a3b48ed813e2db7e_master_lke598.jpg",
+            "category":"Giày",
+            "brand":"Nike",
+            "buy":0
+        }, 
+        {
+
+            "id":8,
+            "name":"Nike LeBron 19 LeBronival",
+            "price":4800000,
+            "discount":10,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680750316/Bong-ro/6e285ac5-59f7-4e1c-aa49-450546c0e91c_4904b60a112b479db68b5791eab5d6ef_master_oc63or.jpg",
+            "category":"Giày",
+            "brand":"Nike",
+            "buy":2
+        },
+        {
+
+            "id":18,
+            "name":"Adidas DON Issue 3 Pink Purple",
+            "price":4800000,
+            "discount":10,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680750476/Bong-ro/3958818-2_xxl_c7f2d0c1b2c1471594279542000c9c73_master_vsguz4.webp",
+            "category":"Giày",
+            "brand":"Adidas",
+            "buy":6
+        },
+        {
+
+            "id":1018,
+            "name":"Frank Medrano Tất thể thao",
+            "price":100000,
+            "discount":10,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680750686/Bong-ro/o1cn017gswq41nmxerxraap___169905133_026fe54ccf7a451fa85b7ad5a932177f_master_nk2l2e.jpg",
+            "category":"tất",
+            "brand":"Frank Medrano",
+            "buy":4
+        },
+        {
+
+            "id":1018,
+            "name":"Pull&Bear Ba Lô (Đựng vừa bóng rổ size 7)",
+            "price":100000,
+            "discount":0,
+            "image":"https://res.cloudinary.com/dhknvtaq2/image/upload/v1680751058/Bong-ro/o1cn01tfg9al1nmxwakxnl1___169905133_9112b5a24a264475bfe73e92e5b8bac5_master_axkfu4.jpg",
+            "category":"Balo",
+            "brand":"Pull&Bear",
+            "buy":7
+        }
+    ],
+    "cart":[
+            
+    ]
+}
